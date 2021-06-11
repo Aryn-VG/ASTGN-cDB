@@ -1,6 +1,6 @@
 # AadaptiveS-tgn
 
-(sigir2021)
+(ICDM 2021)
 
 ## Runing the experiments
 
