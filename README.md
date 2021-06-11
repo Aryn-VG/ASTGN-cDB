@@ -27,6 +27,11 @@ python preprocess_csv.py  --data wikipedia/reddit
 python BuildDglGraph.py --data wikipedia/reddit
 ```
 
+### Runing the model
+```{bash}
+python train.py  --data wikipedia/reddit/mooc/uci/socialevolve/enron
+```
+
 ### Requirements
 
 * python>=3.7
