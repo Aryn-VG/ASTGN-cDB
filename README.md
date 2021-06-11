@@ -27,7 +27,7 @@ python preprocess_csv.py  --data wikipedia/reddit
 python BuildDglGraph.py --data wikipedia/reddit
 ```
 
-### Runing the model
+#### Runing the model
 ```{bash}
 python train.py  --data wikipedia/reddit/mooc/uci/socialevolve/enron
 ```
@@ -46,11 +46,7 @@ python train.py  --data wikipedia/reddit/mooc/uci/socialevolve/enron
   tqdm==4.48.2
   ```
 
-### Training
 
-```python
-python train.py --lr=1e-4 --epoch=30
-```
 
 #### General flag
 
