@@ -1,6 +1,6 @@
 # AadaptiveS-tgn
 
-(ICDM 2021)
+(AAAI 2022)
 
 ## Runing the experiments
 
