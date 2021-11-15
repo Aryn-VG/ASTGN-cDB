@@ -1,8 +1,6 @@
 # AadaptiveS-tgn
 
-(AAAI 2022)
-
-## Runing the experiments
+## Running the experiments
 
 ### dataset and preprocessing
 
